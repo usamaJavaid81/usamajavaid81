@@ -6,8 +6,6 @@ https://github-readme-stats.vercel.app/api?username=usamajavaid81
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamaJavaid81&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaJavaid81&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=usamaJavaid81&theme=tokyonight)
 
 
