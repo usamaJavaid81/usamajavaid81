@@ -1,7 +1,5 @@
 # Hi there, I'm Usama Javaid! 👋
 
-[![Update GitHub Stats](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml/badge.svg)](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usamajavaid81&theme=dark)](https://git.io/streak-stats)
 
 ### 💫 About Me
@@ -11,22 +9,7 @@
 - 💬 Ask me about ** system workflows, Debugging systems Design**.
 - 📫 How to reach me: [usamajavaid001@gmail.com](mailto:usamajavaid001@gmail.com)
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="Usama Javaid GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamaJavaid81&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=usamaJavaid81&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaJavaid81&layout=compact&theme=tokyonight)
-
-
-
+-https://tinyurl.com/r235b3j6
 
 ## 🛠️ Tech Stack
 
