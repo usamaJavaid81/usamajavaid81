@@ -4,6 +4,8 @@
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
+[![Update GitHub Stats](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml/badge.svg)](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml)
+
 ### 💫 About Me
 - 🔭 I’m currently working on building scalable applications and streamlining developer workflows.
 - 🌱 I’m currently expanding my knowledge in system architecture and CI/CD pipelines.
