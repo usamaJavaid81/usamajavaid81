@@ -103,5 +103,15 @@
 
 
 
+### Project Management & Tools
+![Agile](https://img.shields.io/badge/-Agile-333333?style=flat-square)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Monday.com](https://img.shields.io/badge/-Monday.com-0096FF?style=flat-square&logo=monday&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+
+
 
 
