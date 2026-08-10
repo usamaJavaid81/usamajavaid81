@@ -8,6 +8,10 @@ https://github-readme-stats.vercel.app/api?username=usamajavaid81
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=usamaJavaid81&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaJavaid81&layout=compact&theme=tokyonight)
+
+
+
 
 ## 🛠️ Tech Stack
 
