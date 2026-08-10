@@ -1,8 +1,6 @@
 # Hi there, I'm Usama Javaid! 👋
 
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Update GitHub Stats](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml/badge.svg)](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml)
 
