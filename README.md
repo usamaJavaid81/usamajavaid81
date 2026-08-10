@@ -1,7 +1,5 @@
 # Hi there, I'm Usama Javaid! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 [![Update GitHub Stats](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml/badge.svg)](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usamajavaid81&theme=dark)](https://git.io/streak-stats)
@@ -10,13 +8,8 @@
 - 🔭 I’m currently working on building scalable applications and streamlining developer workflows.
 - 🌱 I’m currently expanding my knowledge in system architecture and CI/CD pipelines.
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 💬 Ask me about **Java, automation workflows, or backend systems**.
-- 📫 How to reach me: Connect with me via my GitHub profile or email.
-
----
-
-## 📊 GitHub Stats
-## 📊 GitHub Analytics
+- 💬 Ask me about ** system workflows, Debugging systems Design**.
+- 📫 How to reach me: [usamajavaid001@gmail.com](mailto:usamajavaid001@gmail.com)
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Usama Javaid GitHub Stats" />
