@@ -95,22 +95,11 @@
 - **Code Quality:** Integrated workflows for static code analysis and dependency vulnerability testing.
 - **Profile Dynamics:** Keep an eye out for active project pipelines pushing updates directly to my repositories.
 
-## 🐍 Contribution Snake
+> **Note:** These stats do not include contributions to organization-owned private repositories.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./dist/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./dist/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="./dist/github-snake.svg"
-  />
-</picture>
+[![usama javaid's GitHub stats](https://github-readme-stats-two-flame-47.vercel.app/api?username=usamajavaid81&theme=radical&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-two-flame-47.vercel.app/api/top-langs/?username=usamajavaid81&langs_count=8)
 
 
 
