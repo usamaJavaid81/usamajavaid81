@@ -1,1 +1,28 @@
+name: Generate Contribution Snake
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: usamajavaid81
+          outputs: |
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update contribution snake"
+          add: "dist/"
