@@ -4,6 +4,8 @@
 
 [![Update GitHub Stats](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml/badge.svg)](https://github.com/usamaJavaid81/usamajavaid81/actions/workflows/stats.yml)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=usamajavaid81&theme=dark)](https://git.io/streak-stats)
+
 ### 💫 About Me
 - 🔭 I’m currently working on building scalable applications and streamlining developer workflows.
 - 🌱 I’m currently expanding my knowledge in system architecture and CI/CD pipelines.
