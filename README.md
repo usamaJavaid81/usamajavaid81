@@ -14,6 +14,15 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Usama Javaid GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamaJavaid81&show_icons=true&theme=tokyonight)
 
@@ -83,6 +92,23 @@
 - **CI/CD Automation:** Utilizing **GitHub Actions** to automate building, testing, and deploying projects.
 - **Code Quality:** Integrated workflows for static code analysis and dependency vulnerability testing.
 - **Profile Dynamics:** Keep an eye out for active project pipelines pushing updates directly to my repositories.
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./dist/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./dist/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="./dist/github-snake.svg"
+  />
+</picture>
 
 
 
